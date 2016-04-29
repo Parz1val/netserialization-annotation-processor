@@ -1,0 +1,10 @@
+com\ocdsoft\bacta\annotation\TestObject.class
+com\ocdsoft\bacta\annotation\TestClass2.class
+com\ocdsoft\bacta\annotation\SerializationClassGenerator.class
+com\ocdsoft\bacta\annotation\SerializationProcessor.class
+com\ocdsoft\bacta\annotation\TestClass0.class
+com\ocdsoft\bacta\annotation\TestClass1.class
+com\ocdsoft\bacta\annotation\TestClass4.class
+com\ocdsoft\bacta\annotation\TestClass0Serializer.class
+com\ocdsoft\bacta\annotation\TestClass3.class
+META-INF\services\javax.annotation.processing.Processor
